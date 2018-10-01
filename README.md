@@ -11,9 +11,9 @@ A repository with which to practice using git.
 
 > Purple
 
-### What is your favorite animal
+### What is your favorite animal?
 
 > Dog
-### who is your best friend
+### who is your best friend?
 
 > Meme
