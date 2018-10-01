@@ -23,4 +23,4 @@ A repository with which to practice using git.
 this is a block of code for no sense
 ```
 
-this is the part I changed online
+**this is the part I changed online**
