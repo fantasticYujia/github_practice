@@ -17,3 +17,8 @@ A repository with which to practice using git.
 ### who is your best friend
 
 > Meme
+### oh no I will do something that do not really make sense
+
+```
+this is a block of code for no sense
+```
